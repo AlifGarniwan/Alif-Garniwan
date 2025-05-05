@@ -1,3 +1,4 @@
-# Alif-Garniwan## Hey 👋, This is Alif Garniwan
+# Alif-Garniwan## 
+Hey 👋, This is Alif Garniwan
 [![Gmail Badge](https://img.shields.io/badge/-alifgarbusi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alifgarbusi@gmail.com)](mailto:alifgarbusi@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/alifmgarniwan/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/alifmgarniwan//)](https://www.linkedin.com/in/https://www.linkedin.com/in/alifmgarniwan//) <p align='left'>Former Disney culinary professional transitioning into data analytics with a strong foundation in business administration and hands-on certification in Tableau. Proven experience optimizing operational workflows, driving efficiency, and collaborating across teams — now focused on deriving insights and supporting data-driven decisions through analytical tools, visualization, and storytelling.</p>
